@@ -1,0 +1,172 @@
+{
+  "main": {
+    "id": "fc02186cc1821b1d",
+    "type": "split",
+    "children": [
+      {
+        "id": "ec7574882a2e1437",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "066f23d16832ad11",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "206d9acf279b519d",
+    "type": "split",
+    "children": [
+      {
+        "id": "832d71ae3ea2bf84",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5678564cb6a21fdc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "37473f817e209082",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#ТалантливаяМолодежь",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "98d2872bf990acb9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8c8873af3d78aecd",
+    "type": "split",
+    "children": [
+      {
+        "id": "e4d099079c5b0ce0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c03879ecf9ed086e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "22cbfd7868976f06",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "24f157816444b3bb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "dfb9e72fe5c1cc5a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "066f23d16832ad11",
+  "lastOpenFiles": [
+    "МЕНДЕЛЕЕВСКАЯ КАРТА/🌐🔑 Откройте дверь в мир новых возможностей с Менделеевской картой!.md",
+    "МЕЖДУНАОРДНЫЙ ДЕНЬ ГОР/🏔️🌐 Отмечаем Международный День Гор! 🌍🏞️.pdf",
+    "МЕЖДУНАОРДНЫЙ ДЕНЬ ГОР/🏔️🌐 Вместе с СКФ БГТУ отмечаем Международный День Гор! 🌍🏞️.md",
+    "kandinsky-download-1702275665151.png",
+    "МЕНДЕЛЕЕВСКАЯ КАРТА/Фрейм 7.png",
+    "МЕЖДУНАОРДНЫЙ ДЕНЬ ГОР/Фрейм 6.png",
+    "МЕНДЕЛЕЕВСКАЯ КАРТА",
+    "картинки/~$Шаблон_презентации.pptx",
+    "картинки/pptB640.tmp",
+    "картинки/ppt805A.tmp",
+    "картинки/айдентика 2.svg",
+    "картинки/лого + название2x (оригинал).png",
+    "картинки/лого + название (оригинал).png",
+    "Идеи.md",
+    "картинки/лого + название.png",
+    "картинки/лого + название2x.png",
+    "картинки/лого + название.svg",
+    "картинки/айдентика 1.svg",
+    "картинки/psB782.tmp",
+    "картинки/Шаблон_презентации.pptx",
+    "картинки/лого.psd",
+    "МЕЖДУНАОРДНЫЙ ДЕНЬ ГОР",
+    "Пост ВК - ЮБИЛЕЙ СКФ БГТУ.md",
+    "Пост ВК - НАУКА.md",
+    "Пост ВК - СПОРТ.md",
+    "Идеи - старое.md",
+    "Без названия",
+    "Без названия.canvas"
+  ]
+}
